@@ -1,0 +1,6 @@
+# Jupyter checkpoint folders at any level
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+*.pyc
